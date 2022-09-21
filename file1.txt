@@ -1,1 +1,2 @@
 First sentence.
+second sentence for reset
